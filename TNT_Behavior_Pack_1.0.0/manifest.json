@@ -3,15 +3,15 @@
     "header": {
         "description": "ですくりぷしょん",
         "name": "おなまえ",
-        "uuid": "ee649bcf-256c-4013-9068-6a802b89d756",
-        "version": [0, 0, 1]
+        "uuid": "e86529f9-ee73-4674-8203-6bd9bb6e36e4",
+        "version": [1, 0, 0]
     },
     "modules": [
         {
             "description": "ですくりぷしょん",
             "type": "data",
-            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
-            "version": [0, 0, 1]
+            "uuid": "16dcb1a0-0b4a-43ea-b901-76486af7e159",
+            "version": [1, 0, 0]
         }
     ]
 }
